@@ -1,7 +1,8 @@
-#Kill Kenny III - The array version.
+# Kill Kenny III - The array version.
+
 A really simple pygame game that demonstrates:
-    opening a pygame window
-    setting the background colour
+* opening a pygame window
+* setting the background colour
     displaying a sprite from an image
     using random coordinates
     checking for mouse clicks
